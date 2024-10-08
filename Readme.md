@@ -1,4 +1,4 @@
-        Participar desse BootCamp, e conhecer os "magos da DIO", foi uma das melhores experiências da minha vida. Como entender 
+Participar desse BootCamp, e conhecer os "magos da DIO", foi uma das melhores experiências da minha vida. Como entender 
 cada detalhe das ferramentas de IA, bem como os impressionantes serviços da AWS se tornou fácil com as explicações dos professores
 dessa incrível plataforma.
         Confesso que acreditei de inicio que seria um desafio maior que a minha capacidade, entretanto a forma que os professores ensinam,
